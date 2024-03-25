@@ -46,4 +46,4 @@ This project is licensed under the [License Name] License - see the [LICENSE.md]
 Special thanks to [Acknowledged Person/Team] for their contributions and support throughout the development of this project.
 
 ## Contact
-For inquiries or support, please contact [Your Name] at [your-email@example.com].
+For inquiries or support, please contact [Karimullah] at karimullah.khan3637@gmail.com
