@@ -39,11 +39,5 @@ Contributions to the project are welcome! If you would like to contribute, pleas
 4. Push to the branch (`git push origin feature-name`).
 5. Create a new Pull Request.
 
-## License
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-Special thanks to [Acknowledged Person/Team] for their contributions and support throughout the development of this project.
-
 ## Contact
 For inquiries or support, please contact [Karimullah] at karimullah.khan3637@gmail.com
